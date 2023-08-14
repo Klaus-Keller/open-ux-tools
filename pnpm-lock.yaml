@@ -161,11 +161,11 @@ importers:
         specifier: 3.1.7
         version: 3.1.7
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
       prompts:
         specifier: 2.4.2
         version: 2.4.2
@@ -189,8 +189,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/prompts':
         specifier: 2.0.14
         version: 2.0.14
@@ -246,11 +246,11 @@ importers:
         specifier: 20.3.2
         version: 20.3.2
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
       prompts:
         specifier: 2.4.2
         version: 2.4.2
@@ -262,8 +262,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/prompts':
         specifier: 2.0.14
         version: 2.0.14
@@ -406,11 +406,11 @@ importers:
         specifier: 20.3.2
         version: 20.3.2
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
       semver:
         specifier: 7.5.3
         version: 7.5.3
@@ -419,8 +419,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/semver':
         specifier: 7.3.9
         version: 7.3.9
@@ -462,8 +462,8 @@ importers:
         specifier: 5.0.2
         version: 5.0.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/prompts':
         specifier: 2.0.14
         version: 2.0.14
@@ -600,11 +600,11 @@ importers:
         specifier: 3.1.7
         version: 3.1.7
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
       semver:
         specifier: 7.5.3
         version: 7.5.3
@@ -625,8 +625,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/semver':
         specifier: 7.3.9
         version: 7.3.9
@@ -658,11 +658,11 @@ importers:
         specifier: 4.17.21
         version: 4.17.21
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
       read-pkg-up:
         specifier: 7.0.1
         version: 7.0.1
@@ -686,8 +686,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/semver':
         specifier: 7.3.9
         version: 7.3.9
@@ -716,11 +716,11 @@ importers:
         specifier: 4.17.21
         version: 4.17.21
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
       read-pkg-up:
         specifier: 7.0.1
         version: 7.0.1
@@ -741,8 +741,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       fs-extra:
         specifier: 10.0.0
         version: 10.0.0
@@ -790,11 +790,11 @@ importers:
         specifier: 20.3.2
         version: 20.3.2
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
     devDependencies:
       '@sap-ux/project-access':
         specifier: workspace:*
@@ -803,8 +803,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/prompts':
         specifier: 2.0.14
         version: 2.0.14
@@ -827,11 +827,11 @@ importers:
         specifier: 20.3.2
         version: 20.3.2
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
       prettify-xml:
         specifier: 1.2.0
         version: 1.2.0
@@ -852,8 +852,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/semver':
         specifier: 7.3.9
         version: 7.3.9
@@ -913,18 +913,18 @@ importers:
         specifier: 2.2.3
         version: 2.2.3
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
     devDependencies:
       '@types/mem-fs':
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@ui5/manifest':
         specifier: 1.51.0
         version: 1.51.0
@@ -1149,11 +1149,11 @@ importers:
         specifier: 4.17.21
         version: 4.17.21
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
       semver:
         specifier: 7.5.3
         version: 7.5.3
@@ -1177,8 +1177,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/semver':
         specifier: 7.3.9
         version: 7.3.9
@@ -1205,11 +1205,11 @@ importers:
         specifier: 7.3.9
         version: 7.3.9
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
 
   packages/ui5-library-writer:
     dependencies:
@@ -1232,11 +1232,11 @@ importers:
         specifier: 4.17.21
         version: 4.17.21
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
       semver:
         specifier: 7.5.3
         version: 7.5.3
@@ -1257,8 +1257,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/semver':
         specifier: 7.3.9
         version: 7.3.9
@@ -1324,11 +1324,11 @@ importers:
         specifier: 20.3.2
         version: 20.3.2
       mem-fs:
-        specifier: 2.1.0
-        version: 2.1.0
+        specifier: 2.3.0
+        version: 2.3.0
       mem-fs-editor:
-        specifier: 9.4.0
-        version: 9.4.0(mem-fs@2.1.0)
+        specifier: 9.7.0
+        version: 9.7.0(mem-fs@2.3.0)
     devDependencies:
       '@sap-ux/project-access':
         specifier: workspace:*
@@ -1343,8 +1343,8 @@ importers:
         specifier: 1.1.2
         version: 1.1.2
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       fs-extra:
         specifier: 10.0.0
         version: 10.0.0
@@ -1368,8 +1368,8 @@ importers:
   types:
     devDependencies:
       '@types/mem-fs-editor':
-        specifier: 7.0.1
-        version: 7.0.1
+        specifier: 7.0.3
+        version: 7.0.3
       '@types/vinyl':
         specifier: 2.0.7
         version: 2.0.7
@@ -5786,7 +5786,6 @@ packages:
 
   /@types/expect@1.20.4:
     resolution: {integrity: sha512-Q5Vn3yjTDyCMV50TB6VRIbQNxSE4OmZR86VSbGaNpfUolm0iePBB4KdEEHmxoY5sT2+2DIvXW0rvMDP2nHZ4Mg==}
-    dev: true
 
   /@types/express-serve-static-core@4.17.28:
     resolution: {integrity: sha512-P1BJAEAW3E2DJUlkgq4tOL3RyMunoWXqbSCygWo5ZIWTjUgN1YnaXWW4VWl/oc8vs/XoYibEGBKP0uZyF4AHig==}
@@ -5907,10 +5906,6 @@ packages:
   /@types/json-schema@7.0.12:
     resolution: {integrity: sha512-Hr5Jfhc9eYOQNPYO5WLDq/n4jqijdHNlDXjuAQkkt+mWdQR+XJToOHrsD4cPaMXpn6KO7y2+wM8AZEs8VpBLVA==}
 
-  /@types/json-schema@7.0.9:
-    resolution: {integrity: sha512-qcUXuemtEu+E5wZSJHNxUXeCZhAfXKQ41D+duX+VYPde7xyEVZci+/oXKJL13tnRs9lR2pr4fod59GT6/X1/yQ==}
-    dev: true
-
   /@types/json-stable-stringify@1.0.34:
     resolution: {integrity: sha512-s2cfwagOQAS8o06TcwKfr9Wx11dNGbH2E9vJz1cqV+a/LOyhWNLUNd6JSRYNzvB4d29UuJX2M0Dj9vE1T8fRXw==}
     dev: true
@@ -5941,10 +5936,21 @@ packages:
     dependencies:
       '@types/ejs': 3.1.0
       '@types/glob': 8.1.0
-      '@types/json-schema': 7.0.9
+      '@types/json-schema': 7.0.12
       '@types/mem-fs': 1.1.2
       '@types/node': 12.12.6
       '@types/vinyl': 2.0.7
+    dev: true
+
+  /@types/mem-fs-editor@7.0.3:
+    resolution: {integrity: sha512-ZvW3LwmY2A44EZHOmpG44OpfumpVkjp1TqXKsh9T/+yL7xlQu5ZO7eP8GQhSL/JW5KXbJKz3CMP12QKzrjSXWg==}
+    dependencies:
+      '@types/ejs': 3.1.0
+      '@types/json-schema': 7.0.12
+      '@types/mem-fs': 1.1.2
+      '@types/node': 12.12.6
+      '@types/vinyl': 2.0.7
+      globby: 11.1.0
     dev: true
 
   /@types/mem-fs@1.1.2:
@@ -5987,6 +5993,9 @@ packages:
   /@types/node@14.18.54:
     resolution: {integrity: sha512-uq7O52wvo2Lggsx1x21tKZgqkJpvwCseBBPtX/nKQfpVlEsLOb11zZ1CRsWUKvJF0+lzuA9jwvA7Pr2Wt7i3xw==}
     dev: true
+
+  /@types/node@15.14.9:
+    resolution: {integrity: sha512-qjd88DrCxupx/kJD5yQgZdcYKZKSIGBVDIBE1/LTGcNm3d2Np/jxojkdePDdfnBHJc5W7vSMpbJ1aB7p/Py69A==}
 
   /@types/node@16.11.59:
     resolution: {integrity: sha512-6u+36Dj3aDzhfBVUf/mfmc92OEdzQ2kx2jcXGdigfl70E/neV21ZHE6UCz4MDzTRcVqGAM27fk+DLXvyDsn3Jw==}
@@ -6170,7 +6179,6 @@ packages:
     dependencies:
       '@types/expect': 1.20.4
       '@types/node': 17.0.9
-    dev: true
 
   /@types/vscode@1.39.0:
     resolution: {integrity: sha512-rlg0okXDt7NjAyHXbZ2nO1I/VY/8y9w67ltLRrOxXQ46ayvrYZavD4A6zpYrGbs2+ZOEQzcUs+QZOqcVGQIxXQ==}
@@ -9405,6 +9413,14 @@ packages:
     hasBin: true
     dependencies:
       jake: 10.8.5
+    dev: false
+
+  /ejs@3.1.9:
+    resolution: {integrity: sha512-rC+QVNMJWv+MtPgkt0y+0rVEIdbtxVADApW9JXrUVlzHetgcyczP/E7DJmWJ4fJCZF2cPcBk0laWO9ZHMG3DmQ==}
+    engines: {node: '>=0.10.0'}
+    hasBin: true
+    dependencies:
+      jake: 10.8.5
 
   /electron-to-chromium@1.4.440:
     resolution: {integrity: sha512-r6dCgNpRhPwiWlxbHzZQ/d9swfPaEJGi8ekqRBwQYaR3WmA5VkqQfBWSDDjuJU1ntO+W9tHx8OHV/96Q8e0dVw==}
@@ -12211,6 +12227,11 @@ packages:
   /isbinaryfile@4.0.8:
     resolution: {integrity: sha512-53h6XFniq77YdW+spoRrebh0mnmTxRPTlcuIArO57lmMdq4uBKFKaeTjnb92oYWrSn/LVL+LT+Hap2tFQj8V+w==}
     engines: {node: '>= 8.0.0'}
+    dev: false
+
+  /isbinaryfile@5.0.0:
+    resolution: {integrity: sha512-UDdnyGvMajJUWCkib7Cei/dvyJrrvo4FIrsvSFWdPpXSUorzXrDJ0S+X5Q4ZlasfPjca4yqCNNsjbCeiy8FFeg==}
+    engines: {node: '>= 14.0.0'}
 
   /isexe@2.0.0:
     resolution: {integrity: sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==}
@@ -13422,7 +13443,7 @@ packages:
     engines: {node: '>= 0.6'}
     dev: true
 
-  /mem-fs-editor@9.4.0(mem-fs@2.1.0):
+  /mem-fs-editor@9.4.0:
     resolution: {integrity: sha512-HSSOLSVRrsDdui9I6i96dDtG+oAez/4EB2g4cjSrNhgNQ3M+L57/+22NuPdORSoxvOHjIg/xeOE+C0wwF91D2g==}
     engines: {node: '>=12.10.0'}
     peerDependencies:
@@ -13437,16 +13458,39 @@ packages:
       ejs: 3.1.7
       globby: 11.1.0
       isbinaryfile: 4.0.8
-      mem-fs: 2.1.0
       minimatch: 3.1.2
       multimatch: 5.0.0
       normalize-path: 3.0.0
       textextensions: 5.14.0
+    dev: false
 
-  /mem-fs@2.1.0:
-    resolution: {integrity: sha512-55vFOT4rfJx/9uoWntNrfzEj9209rd26spsSvKsCVBfOPH001YS5IakfElhcyagieC4uL++Ry/XDcwvgxF4/zQ==}
+  /mem-fs-editor@9.7.0(mem-fs@2.3.0):
+    resolution: {integrity: sha512-ReB3YD24GNykmu4WeUL/FDIQtkoyGB6zfJv60yfCo3QjKeimNcTqv2FT83bP0ccs6uu+sm5zyoBlspAzigmsdg==}
+    engines: {node: '>=12.10.0'}
+    peerDependencies:
+      mem-fs: ^2.1.0
+    peerDependenciesMeta:
+      mem-fs:
+        optional: true
+    dependencies:
+      binaryextensions: 4.18.0
+      commondir: 1.0.1
+      deep-extend: 0.6.0
+      ejs: 3.1.9
+      globby: 11.1.0
+      isbinaryfile: 5.0.0
+      mem-fs: 2.3.0
+      minimatch: 7.4.6
+      multimatch: 5.0.0
+      normalize-path: 3.0.0
+      textextensions: 5.14.0
+
+  /mem-fs@2.3.0:
+    resolution: {integrity: sha512-GftCCBs6EN8sz3BoWO1bCj8t7YBtT713d8bUgbhg9Iel5kFSqnSvCK06TYIDJAtJ51cSiWkM/YemlT0dfoFycw==}
     engines: {node: '>=12'}
     dependencies:
+      '@types/node': 15.14.9
+      '@types/vinyl': 2.0.7
       vinyl: 2.2.1
       vinyl-file: 3.0.0
 
@@ -13656,6 +13700,12 @@ packages:
     dependencies:
       brace-expansion: 2.0.1
     dev: false
+
+  /minimatch@7.4.6:
+    resolution: {integrity: sha512-sBz8G/YjVniEz6lKPNpKxXwazJe4c19fEfV2GDMX6AjFz+MX9uDWIZW8XreVhkFW3fkIdTv/gxWr/Kks5FFAVw==}
+    engines: {node: '>=10'}
+    dependencies:
+      brace-expansion: 2.0.1
 
   /minimatch@9.0.2:
     resolution: {integrity: sha512-PZOT9g5v2ojiTL7r1xF6plNHLtOeTpSlDI007As2NlA2aYBMfVom17yqa6QzhmDP8QOhn7LjHTg7DFCVSSa6yg==}
@@ -18557,7 +18607,7 @@ packages:
       execa: 5.1.1
       github-username: 6.0.0
       lodash: 4.17.21
-      mem-fs-editor: 9.4.0(mem-fs@2.1.0)
+      mem-fs-editor: 9.4.0
       minimist: 1.2.6
       pacote: 15.2.0
       read-pkg-up: 7.0.1

@@ -35,12 +35,12 @@
     "dependencies": {
         "@sap-ux/ui5-config": "workspace:*",
         "findit2": "2.2.3",
-        "mem-fs": "2.1.0",
-        "mem-fs-editor": "9.4.0"
+        "mem-fs": "2.3.0",
+        "mem-fs-editor": "9.7.0"
     },
     "devDependencies": {
         "@types/mem-fs": "1.1.2",
-        "@types/mem-fs-editor": "7.0.1",
+        "@types/mem-fs-editor": "7.0.3",
         "@ui5/manifest": "1.51.0",
         "vscode-uri": "3.0.6"
     }
