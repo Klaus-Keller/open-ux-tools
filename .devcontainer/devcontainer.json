@@ -13,7 +13,7 @@
     // "forwardPorts": [],
 
     // Use 'postCreateCommand' to run commands after the container is created.
-    "postCreateCommand": "curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=8.6.0 SHELL=`which bash` bash -",
+    // "postCreateCommand": "curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=8.6.0 SHELL=`which bash` bash -",
 
     // Configure tool-specific properties.
     "customizations": {
